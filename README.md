@@ -6,7 +6,7 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
-![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)
+![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HeTongRe4per)
 
 <!--
 **HeTongRe4per/HeTongRe4per** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
