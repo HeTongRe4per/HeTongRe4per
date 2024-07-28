@@ -1,12 +1,8 @@
 ## Hi there 👋 ![visitors](https://visitor-badge.imlete.cn/badge?id=github.hetongre4per&color=blue)
 
----
-
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+Here+is+HeTongRe4per)
 
 I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for coding and technology. Currently, I am honing my skills in Java, C#, Python, and C++ and have a keen interest in back-end operations. I have long experience with Linux, configuring Nginx and Docker, and I'm always looking for new challenges and opportunities to learn and grow.
-
----
 
 ### 🛠️ Languages and Tools:
 
@@ -22,13 +18,9 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 <code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/visualstudio.svg"></a></code>
 <code><a href="https://www.jetbrains.com/zh-cn/pycharm/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/pycharm.svg"></a></code>
 
----
-
 ### 📊 GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeTongRe4per&layout=donut&theme=radical)
-
----
 
 ### 📖 Latest Blog Posts:
 
@@ -38,13 +30,9 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 - [校园网防止多设备检测指北](https://hetong-re4per.com/post/multi-device-detection)
 <!-- BLOG-POST-LIST:END -->
 
----
-
 ### 🚀 Activity Graph:
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HeTongRe4per&theme=rogue)
-
----
 
 ### 👨‍💻 About Me:
 
