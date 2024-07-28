@@ -54,8 +54,6 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 - 👯 I’m looking to collaborate on open-source projects and interesting coding challenges.
 - 🤔 I’m looking for help with mastering advanced concepts in game development.
 - 💬 Ask me about anything related to my projects or interests.
-- 📫 How to reach me: 
-  - Email: [zhang_zlf@outlook.com](mailto:zhang_zlf@outlook.com)
-  - QQ: [1966377423](tencent://message/?uin=1966377423&Site=&Menu=yes)
+- 📫 How to reach me: ![mail](https://custom-icon-badges.demolab.com/badge/zhang_zlf%40outlook.com-EA4335?style=flat&logo=mail&label=mail&logoColor=white&link=mailto%3Azhang_zlf%40outlook.com) ![Linkedin](https://custom-icon-badges.demolab.com/badge/%E8%A4%90%E7%9E%B3%E3%81%95%E3%82%93-0A66C2?style=flat&logo=linkin&label=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hetong-re4per/) ![QQ](https://custom-icon-badges.demolab.com/badge/1966377423-1EBAFC?style=flat&logo=tencentqq&label=QQ&logoColor=white)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing and developing games, and I'm always eager to explore new technologies and frameworks.
