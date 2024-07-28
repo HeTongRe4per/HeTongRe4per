@@ -29,16 +29,9 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
-      - name: Install custom CA certificate
-        run: |
-          sudo cp .github/ca.cer /usr/local/share/ca-certificates/ca.crt
-          sudo update-ca-certificates
-        env:
-          NODE_EXTRA_CA_CERTS: /usr/local/share/ca-certificates/ca.crt
-
       # Runs a single command using the runners shell
-      - name: Update posts
-        uses: gautamkrishnar/blog-post-workflow@master
+      - name: Blog Post Workflow
+        uses: gautamkrishnar/blog-post-workflow@1.8.8
         with:
           feed_list: "https://hetong-re4per.com/feed.xml"
           max_post_count: 4
