@@ -33,6 +33,8 @@ jobs:
         run: |
           sudo cp .github/ca.cer /usr/local/share/ca-certificates/ca.crt
           sudo update-ca-certificates
+        env:
+          NODE_EXTRA_CA_CERTS: /usr/local/share/ca-certificates/ca.crt
 
       # Runs a single command using the runners shell
       - name: Update posts
