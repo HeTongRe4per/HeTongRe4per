@@ -27,6 +27,11 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 ### 📊 GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeTongRe4per&layout=donut&theme=radical)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
 
 ---
 
