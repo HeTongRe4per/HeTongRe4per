@@ -1,8 +1,12 @@
 ## Hi there 👋 ![visitors](https://visitor-badge.imlete.cn/badge?id=github.hetongre4per&color=blue)
 
+---
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi!+Here+is+HeTongRe4per)
 
 I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for coding and technology. Currently, I am honing my skills in Java, C#, Python, and C++ and have a keen interest in back-end operations. I have long experience with Linux, configuring Nginx and Docker, and I'm always looking for new challenges and opportunities to learn and grow.
+
+---
 
 ### 🛠️ Languages and Tools:
 
@@ -18,9 +22,13 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 <code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/visualstudio.svg"></a></code>
 <code><a href="https://www.jetbrains.com/zh-cn/pycharm/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/pycharm.svg"></a></code>
 
+---
+
 ### 📊 GitHub Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeTongRe4per&layout=donut&theme=radical)
+
+---
 
 ### 📖 Latest Blog Posts:
 
@@ -30,9 +38,13 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 - [校园网防止多设备检测指北](https://hetong-re4per.com/post/multi-device-detection)
 <!-- BLOG-POST-LIST:END -->
 
+---
+
 ### 🚀 Activity Graph:
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HeTongRe4per&theme=rogue)
+
+---
 
 ### 👨‍💻 About Me:
 
@@ -42,8 +54,7 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 - 🤔 I’m looking for help with mastering advanced concepts in game development.
 - 💬 Ask me about anything related to my projects or interests.
 - 📫 How to reach me: 
-    - [![mail](https://custom-icon-badges.demolab.com/badge/zhang_zlf%40outlook.com-EA4335?style=for-the-badge&logo=mail&label=mail&logoColor=white)](mailto:zhang_zlf@outlook.com)
-    - [![Linkedin](https://custom-icon-badges.demolab.com/badge/%E8%A4%90%E7%9E%B3%E3%81%95%E3%82%93-0A66C2?style=for-the-badge&logo=linkin&label=Linkedin&logoColor=white&link=v)](https://www.linkedin.com/in/hetong-re4per/)
-    - ![QQ](https://custom-icon-badges.demolab.com/badge/1966377423-1EBAFC?style=for-the-badge&logo=tencentqq&label=QQ&logoColor=white)
+    
+    [![mail](https://custom-icon-badges.demolab.com/badge/zhang_zlf%40outlook.com-EA4335?style=for-the-badge&logo=mail&label=mail&logoColor=white)](mailto:zhang_zlf@outlook.com) [![website](https://custom-icon-badges.demolab.com/badge/%E7%9E%B3%E3%81%AEBlog-025BBF?style=for-the-badge&logo=website&label=Website&logoColor=white)](https://hetong-re4per.com/) ![QQ](https://custom-icon-badges.demolab.com/badge/1966377423-1EBAFC?style=for-the-badge&logo=tencentqq&label=QQ&logoColor=white) [![Linkedin](https://custom-icon-badges.demolab.com/badge/%E8%A4%90%E7%9E%B3%E3%81%95%E3%82%93-0A66C2?style=for-the-badge&logo=linkin&label=Linkedin&logoColor=white&link=v)](https://www.linkedin.com/in/hetong-re4per/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing and developing games, and I'm always eager to explore new technologies and frameworks.
