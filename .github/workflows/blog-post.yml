@@ -29,6 +29,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v2
 
+      - name: Install custom CA certificate
+        run: |
+          sudo cp .github/ca.cer /usr/local/share/ca-certificates/ca.crt
+          sudo update-ca-certificates
+
       # Runs a single command using the runners shell
       - name: Update posts
         uses: gautamkrishnar/blog-post-workflow@master
