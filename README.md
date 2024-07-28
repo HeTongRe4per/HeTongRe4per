@@ -15,13 +15,12 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 ![Python](https://custom-icon-badges.demolab.com/badge/-Python-3776AB.svg?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-1?style=flat-square&logo=C%2B%2B&logoColor=white&labelColor=C%2B%2B&color=00599C)
 
-<code><a href="https://www.python.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
-<code><a href="https://pytorch.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
-<code><a href="https://www.linux.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></a></code>
-<code><a href="https://www.scala-lang.org/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></a></code>
-<code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/docker/docker-official.svg"></a></code>
-<code><a href="https://kubernetes.io/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg"></a></code>
-<code><a href="https://www.github.com/" target="_blank"><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></a></code>
+<code><a href="https://code.visualstudio.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/vscode.svg"></a></code>
+<code><a href="https://www.jetbrains.com/zh-cn/idea/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/intellijidea.svg"></a></code>
+<code><a href="https://ubuntu.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/linux.svg"></a></code>
+<code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/docker.svg"></a></code>
+<code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/visualstudio.svg"></a></code>
+<code><a href="https://www.jetbrains.com/zh-cn/pycharm/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/pycharm.svg"></a></code>
 
 ---
 
@@ -54,6 +53,9 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 - 👯 I’m looking to collaborate on open-source projects and interesting coding challenges.
 - 🤔 I’m looking for help with mastering advanced concepts in game development.
 - 💬 Ask me about anything related to my projects or interests.
-- 📫 How to reach me: ![mail](https://custom-icon-badges.demolab.com/badge/zhang_zlf%40outlook.com-EA4335?style=flat&logo=mail&label=mail&logoColor=white&link=mailto%3Azhang_zlf%40outlook.com) ![Linkedin](https://custom-icon-badges.demolab.com/badge/%E8%A4%90%E7%9E%B3%E3%81%95%E3%82%93-0A66C2?style=flat&logo=linkin&label=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hetong-re4per/) ![QQ](https://custom-icon-badges.demolab.com/badge/1966377423-1EBAFC?style=flat&logo=tencentqq&label=QQ&logoColor=white)
+- 📫 How to reach me: 
+    - [![mail](https://custom-icon-badges.demolab.com/badge/zhang_zlf%40outlook.com-EA4335?style=for-the-badge&logo=mail&label=mail&logoColor=white)](mailto:zhang_zlf@outlook.com)
+    - [![Linkedin](https://custom-icon-badges.demolab.com/badge/%E8%A4%90%E7%9E%B3%E3%81%95%E3%82%93-0A66C2?style=for-the-badge&logo=linkin&label=Linkedin&logoColor=white&link=v)](https://www.linkedin.com/in/hetong-re4per/)
+    - ![QQ](https://custom-icon-badges.demolab.com/badge/1966377423-1EBAFC?style=for-the-badge&logo=tencentqq&label=QQ&logoColor=white)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love playing and developing games, and I'm always eager to explore new technologies and frameworks.
