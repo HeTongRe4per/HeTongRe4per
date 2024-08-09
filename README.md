@@ -27,10 +27,10 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 ### 📖 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [如何使用Github Page搭建自己的博客](https://hetong-re4per.com/posts/how-bulid-blog-on-github-page/)
 - [如何使用 NEUTRINO 让歌姬为你而唱](https://hetong-re4per.com/posts/neutrino/)
 - [Java MC服务器搭建](https://hetong-re4per.com/posts/mcserver-build/)
 - [如何搭建自己的ts3服务器](https://hetong-re4per.com/posts/ts3server-build/)
-- [校园网防止多设备检测指北](https://hetong-re4per.com/posts/multi-device-detection/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🚀 Activity Graph:
