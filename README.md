@@ -27,10 +27,10 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 ### 📖 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 OrangePi Zero3搭建 TS3AudioBot](https://hetong-re4per.com/posts/use-orangepi-zero3-to-build-ts3audiobot/)
 - [记录一下香橙派 Zero3 的使用](https://hetong-re4per.com/posts/documenting-an-opizero3-use/)
 - [如何安装 Teamspeak3](https://hetong-re4per.com/posts/how-to-install-teamspeak3/)
 - [使用 Clooudflare R2 + Cloudreve 构建属于自己的云盘](https://hetong-re4per.com/posts/bulid-own-cloud-drive-on-cloudflare-r2/)
-- [在博客中使用 waline 评论](https://hetong-re4per.com/posts/use-waline-comment-on-hugo/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🚀 Activity Graph:
