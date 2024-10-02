@@ -22,7 +22,7 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 
 ![snk](https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/output/github-contribution-grid-snake-dark.svg)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeTongRe4per&layout=donut&theme=github_dark) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeTongRe4per&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HeTongRe4per&layout=donut&theme=github_dark&hide=html) ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeTongRe4per&theme=github_dark)
 
 ### 📖 Latest Blog Posts:
 
