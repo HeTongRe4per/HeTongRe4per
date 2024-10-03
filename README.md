@@ -27,10 +27,10 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 ### 📖 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [为 OrangePi 编译属于自己的 OpenWrt](https://hetong-re4per.com/posts/build-own-openwrt-for-orangepi/)
 - [如何白嫖高性能阿里云服务器搭建自己的游戏服务器](https://hetong-re4per.com/posts/aliyun-student-programming/)
 - [学生如何使用邮箱及学信网在线验证获取 Github 学生包](https://hetong-re4per.com/posts/how-students-get-github-student-pack/)
 - [中州韵 - 小狼毫输入法配置备忘录](https://hetong-re4per.com/posts/weasel-configuration-memo/)
-- [使用 Docker + Koishi 搭建一个属于自己的聊天机器人](https://hetong-re4per.com/posts/use-docker-and-koishi-to-build-your-own-chatbot/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🚀 Activity Graph:
