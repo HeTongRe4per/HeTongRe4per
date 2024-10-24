@@ -14,6 +14,7 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 <code><a href="https://code.visualstudio.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/vscode.svg"></a></code>
 <code><a href="https://www.jetbrains.com/zh-cn/idea/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/intellijidea.svg"></a></code>
 <code><a href="https://ubuntu.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/linux.svg"></a></code>
+<code><a href="https://www.jetbrains.com/zh-cn/rider/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/refs/heads/main/.github/icons/rider.svg"></a></code>
 <code><a href="https://www.docker.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/docker.svg"></a></code>
 <code><a href="https://visualstudio.microsoft.com/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/visualstudio.svg"></a></code>
 <code><a href="https://www.jetbrains.com/zh-cn/pycharm/" target="_blank"><img height="40" src="https://raw.githubusercontent.com/HeTongRe4per/HeTongRe4per/main/.github/icons/pycharm.svg"></a></code>
