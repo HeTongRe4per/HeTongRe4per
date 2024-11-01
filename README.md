@@ -28,10 +28,10 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 ### 📖 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [艾尔登法环通过修改游戏存档 16 进制值来修改游戏数据](https://hetong-re4per.com/posts/how-to-modify-game-data-by-modifying-game-save-hex/)
 - [使用 OBS 和腾讯会议实现屏幕共享直播](https://hetong-re4per.com/posts/shared-screencasts-with-obs-and-voov-meeting/)
 - [使用 Github Action + Hugo 实现推送仓库自动生成静态文件并推送到 Page 仓库](https://hetong-re4per.com/posts/compile-openwrt-with-github-action/)
 - [为 OrangePi 编译属于自己的 OpenWrt](https://hetong-re4per.com/posts/build-own-openwrt-for-orangepi/)
-- [如何白嫖高性能阿里云服务器搭建自己的游戏服务器](https://hetong-re4per.com/posts/aliyun-student-programming/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🚀 Activity Graph:
