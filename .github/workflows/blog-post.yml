@@ -33,5 +33,5 @@ jobs:
       - name: Update posts
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://blog.hetong-re4per.com/index.xml"
+          feed_list: "https://hetong-re4per.com/index.xml"
           max_post_count: 4
