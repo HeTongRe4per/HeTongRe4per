@@ -28,10 +28,10 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 ### 📖 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 WePE 重装 Windows 系统](https://www.hetong-re4per.com/posts/windows-reinstallation/)
 - [在你的 Linux 服务器上安装 SteamCMD 并搭建游戏服务器](https://www.hetong-re4per.com/posts/install-steamcmd-on-your-linux-server-and-setup-game-server/)
 - [使用双线 DNS 和 CDN 加速你的 GitHub Page](https://www.hetong-re4per.com/posts/cdn-for-your-github-page/)
 - [使用 Sunshine + Moonlight 进行电脑到电视无线投屏](https://www.hetong-re4per.com/posts/computer-to-tv-wireless-cast-with-sunshine-and-moonlight/)
-- [艾尔登法环通过修改游戏存档 16 进制值来修改游戏数据](https://www.hetong-re4per.com/posts/how-to-modify-game-data-by-modifying-game-save-hex/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🚀 Activity Graph:
