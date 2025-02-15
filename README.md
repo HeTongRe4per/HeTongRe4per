@@ -28,10 +28,10 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 ### 📖 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [为自己的 Hugo 文章添加一个文章过期提示](https://www.hetong-re4per.com/posts/article-content-expiration-reminder/)
 - [记录一下修复 WSL 无法启动的过程](https://www.hetong-re4per.com/posts/fixing-wsl-startup-issues/)
 - [使用 WePE 重装 Windows 系统](https://www.hetong-re4per.com/posts/windows-reinstallation/)
 - [在你的 Linux 服务器上安装 SteamCMD 并搭建游戏服务器](https://www.hetong-re4per.com/posts/install-steamcmd-on-your-linux-server-and-setup-game-server/)
-- [使用双线 DNS 和 CDN 加速你的 GitHub Page](https://www.hetong-re4per.com/posts/cdn-for-your-github-page/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🚀 Activity Graph:
