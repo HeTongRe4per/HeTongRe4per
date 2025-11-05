@@ -28,10 +28,10 @@ I'm HeTongRe4per and I am a student from Shaanxi, China with a passion for codin
 ### 📖 Latest Blog Posts:
 
 <!-- BLOG-POST-LIST:START -->
+- [使用 Cloudflare 创建一个属于自己的 DoH](https://www.hetong-re4per.com/posts/how-to-have-your-own-doh/)
 - [使用 so-vits-svc 训练和使用属于自己的模型](https://www.hetong-re4per.com/posts/use-so-vits-svc-to-train-your-own-voice-model/)
 - [为自己的 Hugo 文章添加一个文章过期提示](https://www.hetong-re4per.com/posts/article-content-expiration-reminder/)
 - [记录一下修复 WSL 无法启动的过程](https://www.hetong-re4per.com/posts/fixing-wsl-startup-issues/)
-- [使用 WePE 重装 Windows 系统](https://www.hetong-re4per.com/posts/windows-reinstallation/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🚀 Activity Graph:
